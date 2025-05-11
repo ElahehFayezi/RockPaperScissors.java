@@ -20,7 +20,7 @@ Ein einfaches "Schere-Stein-Papier" Spiel mit Java Swing GUI, inklusive grafisch
 1. Repository klonen oder den Code kopieren:
 
 ```bash
-$ git clone https://github.com/username/rock-paper-scissors.git
+$ git clone https://github.com/ElahehFayezi/rock-paper-scissors.git
 ```
 
 2. In das Verzeichnis wechseln:
